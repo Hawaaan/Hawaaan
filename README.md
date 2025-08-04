@@ -19,9 +19,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Your github stats](https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical)
 
 ---
 
