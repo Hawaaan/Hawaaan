@@ -1,13 +1,9 @@
-<!-- Typing Animation Header -->
+<!-- Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Hi+I'm+Hawaaan;Frontend+Developer+💻;Vue.js+%7C+Tailwind+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Hawaaan;Frontend+Developer+💻;Vue.js+%7C+Tailwind+%7C+JavaScript" alt="Typing SVG" />
 </h1>
 
-<!-- Wave + Floating Avatar -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</p>
-
+<!-- Avatar -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150px" style="border-radius: 50%;" />
 </p>
@@ -16,17 +12,34 @@
 
 ### 🧠 About Me
 
-- 🌍 I'm from Somalia 🇸🇴  
-- 💻 I build modern UIs with Vue.js & Tailwind  
-- 🎯 Focused on frontend and beautiful animations  
-- 🚀 Learning new tools every day  
+- 🇸🇴 Somali Frontend Developer  
+- 🧩 Love to solve problems and build clean UI  
+- 🌐 Technologies: Vue.js, Tailwind CSS, JavaScript  
+- 🧠 Currently learning: Node.js & APIs  
+- 🎨 Passion for creative design & code  
 
 ---
 
-### 💡 Tech Stack
+### 🔥 Goals (2025)
+
+- ✅ Build and publish my own portfolio
+- 🚀 Contribute to open source Vue projects
+- 📚 Learn Nuxt 3 and Vue Router deeply
+- 💼 Get freelance or remote frontend jobs
+- 📈 Grow GitHub profile and followers
+
+---
+
+### 💬 Quote of the Day
+
+> *"Your future is created by what you do today, not tomorrow."* — Robert Kiyosaki
+
+---
+
+### 🎵 Now Playing
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,html,css,git,github,vscode" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&bar_color=1DB954&bar_color_cover=true" />
 </p>
 
 ---
@@ -36,14 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hawaaan&theme=tokyonight&border_radius=10" height="180"/>
-</p>
-
----
-
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=tokyonight&langs_count=6&border_radius=10"/>
 </p>
 
 ---
@@ -61,6 +66,15 @@
 
 ---
 
+### 🌈 Fun Facts
+
+- 🔥 I enjoy late-night coding
+- 💡 I can turn Figma designs into pixel-perfect UI
+- 🎯 I believe in learning by building
+- 🧘 I practice deep focus to avoid distractions
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -74,3 +88,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hawaaan&style=for-the-badge" />
 </p>
+
