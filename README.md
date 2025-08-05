@@ -1,6 +1,6 @@
-<!-- Typing Header -->
+<!-- 🔥 Banner with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Hawaaan;Frontend+Developer+💻;Vue.js+%7C+Tailwind+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Salaan,+Magacaygu+waa+Hawaaan;Frontend+Developer+ka+ah+💻;Vue.js+%7C+Tailwind+CSS+%7C+JavaScript" alt="Typing SVG" />
 </h1>
 
 <!-- Avatar -->
@@ -10,50 +10,34 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 Ku Saabsan Aniga
 
-- 🇸🇴 Somali Frontend Developer  
-- 🧩 Love to solve problems and build clean UI  
-- 🌐 Technologies: Vue.js, Tailwind CSS, JavaScript  
-- 🧠 Currently learning: Node.js & APIs  
-- 🎨 Passion for creative design & code  
-
----
-
-### 🔥 Goals (2025)
-
-- ✅ Build and publish my own portfolio
-- 🚀 Contribute to open source Vue projects
-- 📚 Learn Nuxt 3 and Vue Router deeply
-- 💼 Get freelance or remote frontend jobs
-- 📈 Grow GitHub profile and followers
+- 🌍 Waxaan ahay horumariye ka yimid Soomaaliya 🇸🇴  
+- 💻 Waxaan ku shaqeeyaa: Vue.js, Tailwind CSS, iyo JavaScript  
+- 🚀 Hada waxaan baranayaa backend-ka (Node.js)  
+- 🎯 Waxaa iga go'an in aan dhiso UI qurux badan oo la jaanqaadaya waqtiga  
 
 ---
 
-### 💬 Quote of the Day
+## 🎯 Hadafkeyga 2025
 
-> *"Your future is created by what you do today, not tomorrow."* — Robert Kiyosaki
+- ✅ Dhis website CV/portfolio ah
+- 📚 Baro Nuxt 3 iyo Vue Router
+- 🔥 Ka qaybqaado mashruucyo open source ah
+- 💼 Ka shaqee mashaariic freelance ah
+- 📈 Kordhi aqoonta & profile-ka GitHub
 
 ---
 
-### 🎵 Now Playing
+## 💻 Teknolojiyadda aan Adeegsado
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&bar_color=1DB954&bar_color_cover=true" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hawaaan&theme=tokyonight&border_radius=10" height="180"/>
-</p>
-
----
-
-### 📌 Featured Projects
+## 📌 Mashaariicda Ugu Muhiimsan
 
 <p align="center">
   <a href="https://github.com/Hawaaan/my-app">
@@ -66,26 +50,20 @@
 
 ---
 
-### 🌈 Fun Facts
-
-- 🔥 I enjoy late-night coding
-- 💡 I can turn Figma designs into pixel-perfect UI
-- 🎯 I believe in learning by building
-- 🧘 I practice deep focus to avoid distractions
-
----
-
-### 🌐 Let's Connect
+## 📊 Tirakoobyada GitHub
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hawaaan&theme=tokyonight&border_radius=10" height="180"/>
 </p>
 
 ---
+
+## 📫 Nala Soo Xiriir
+
+- 📧 Email: your.email@example.com  
+- 🌐 Portfolio: your-portfolio.com *(ikhtiyaari)*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hawaaan&style=for-the-badge" />
 </p>
-
