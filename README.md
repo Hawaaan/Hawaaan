@@ -3,11 +3,11 @@
 ### Frontend Developer  
 #### Vue.js & Tailwind Specialist | JavaScript Enthusiast  
 
-![Banner](https://images.app.goo.gl/jALev4F3XMf46Kbe9)
-
 ---
 
 ## 🔧 Skills & Technologies
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
@@ -17,17 +17,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
----
-
-## 👾 Animated Intro GIF
-
-![Intro GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Eng-Zoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blue-green&hide_title=true)  
+<div align="center">
+
+![Eng-Zoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blue-green&hide_title=true&card_width=300)
+
+</div>
 
 ---
 
