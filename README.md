@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I'm Eng-Zoja</h1>
 
 <p align="center">
-  <img width="150" src="https://github.com/Eng-Zoja/Eng-Zoja/blob/main/profile.gif" alt="Profile GIF"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Eng-Zoja/Eng-Zoja/main/banner.png" alt="Banner" />
+</p>
+
+<p align="center">
+  <img width="150" src="https://raw.githubusercontent.com/Eng-Zoja/Eng-Zoja/main/profile.gif" alt="Profile GIF"/>
 </p>
 
 <p align="center">
