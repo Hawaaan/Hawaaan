@@ -1,6 +1,6 @@
 # Hi there, I'm Hawaaan 👋
 
-![Profile Banner](https://via.placeholder.com/900x200/007BFF/FFFFFF?text=Welcome+to+Hawaaan's+GitHub)
+![Profile Banner](https://images.app.goo.gl/jALev4F3XMf46Kbe9)
 
 ---
 
@@ -9,7 +9,7 @@
 - 🌍 I'm a passionate **Front End Developer** who loves building beautiful and performant web apps.
 - 💻 Skilled in **JavaScript**, **Vue.js**, **React**, **Tailwind CSS**, and **Node.js**.
 - 🎯 Currently improving my skills in **Full-Stack Development** and **Cloud Technologies**.
-- 📫 Reach me at: [email@example.com](mailto:email@example.com)
+- 📫 Reach me at: [email@example.com](mailto:abdisalan1221@gmail.com)
 
 ---
 
