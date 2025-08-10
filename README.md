@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌍 I'm a passionate developer who loves building beautiful and performant web apps.
+- 🌍 I'm a passionate **Front End Developer** who loves building beautiful and performant web apps.
 - 💻 Skilled in **JavaScript**, **Vue.js**, **React**, **Tailwind CSS**, and **Node.js**.
 - 🎯 Currently improving my skills in **Full-Stack Development** and **Cloud Technologies**.
 - 📫 Reach me at: [email@example.com](mailto:email@example.com)
@@ -30,6 +30,14 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blueberry" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Hawaaan&theme=blueberry" />
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Hawaaan&style=flat-square&color=007BFF)
 </div>
 
 ---
