@@ -1,62 +1,55 @@
-<h1 align="center">👋 Hi, I'm Eng-Zoja</h1>
+# Hi there, I'm Hawaaan 👋
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Eng-Zoja/Eng-Zoja/main/banner.png" alt="Banner" />
-</p>
-
-<p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/Eng-Zoja/Eng-Zoja/main/profile.gif" alt="Profile GIF"/>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eng-Zoja.Eng-Zoja" alt="visitor badge"/>
-</p>
-
-<p align="center">
-  <i>"Learning never exhausts the mind." - Leonardo da Vinci</i>
-</p>
+![Profile Banner](https://via.placeholder.com/900x200/007BFF/FFFFFF?text=Welcome+to+Hawaaan's+GitHub)
 
 ---
 
-### 🔥 Skills  
+## 🚀 About Me
 
-| Skill       | Level       |  
-| ----------- | ----------- |  
-| JavaScript  | ████████░░  |  
-| Vue 3       | ███████░░░  |  
-| TailwindCSS | ██████░░░░  |  
-| HTML & CSS  | ████████░░  |  
-| Python      | █████░░░░░  |  
+- 🌍 I'm a passionate developer who loves building beautiful and performant web apps.
+- 💻 Skilled in **JavaScript**, **Vue.js**, **React**, **Tailwind CSS**, and **Node.js**.
+- 🎯 Currently improving my skills in **Full-Stack Development** and **Cloud Technologies**.
+- 📫 Reach me at: [email@example.com](mailto:email@example.com)
 
 ---
 
-### 💻 GitHub Stats  
+## 🔧 Technologies & Tools
+
+<div align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blueberry" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Hawaaan&theme=blueberry" />
+</div>
+
+---
+
+## 📫 Connect with me
+
+<div align="center">
+  <a href="https://github.com/Hawaaan" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Hawaaan" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Hawaaan" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Zoja&show_icons=true&count_private=true&theme=radical" />
+  <em>Thanks for visiting my GitHub profile! 🚀</em>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Zoja&theme=radical" />
-</p>
-
----
-
-### 📫 Contact Me  
-<p align="center">
-  <a href="mailto:eng.zoja@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/eng-zoja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/eng_zoja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 Pinned Projects  
-| Project | Description |  
-| ------- | ----------- |  
-| [My Vue App](https://github.com/Eng-Zoja/vue-app) | Modern Vue 3 SPA with TailwindCSS |  
-| [Portfolio](https://github.com/Eng-Zoja/portfolio) | Personal portfolio with dark mode and animations |  
-
----
-
-<p align="center">Made with ❤️ by Eng-Zoja</p>
