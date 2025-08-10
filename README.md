@@ -37,7 +37,8 @@
 ## 👀 Profile Views
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hawaaan&style=flat-square&color=007BFF)
+![Profile Views](https://komarev.com/ghpvc/?username=Hawaaan&style=flat-square&color=007BFF)
+
 </div>
 
 ---
