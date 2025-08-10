@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Eng-Zoja</h1>
+<h1 align="center">👋 Hi, I'm Eng-Zoja</h1>
+
 <p align="center">
-  <img src="https://github.com/Eng-Zoja/Eng-Zoja/blob/main/banner.png" alt="Banner" width="100%" />
+  <img width="150" src="https://github.com/Eng-Zoja/Eng-Zoja/blob/main/profile.gif" alt="Profile GIF"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eng-Zoja.Eng-Zoja" alt="visitor badge"/>
 </p>
 
-## About Me
-- 🔭 I’m currently working on exciting web projects  
-- 🌱 I’m learning advanced Vue 3 and animations  
-- 👯 I’m looking to collaborate on open source projects  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/eng-zoja) | [Twitter](https://twitter.com/eng_zoja)
-
-## GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Zoja&show_icons=true&theme=dark" />
+  <i>"Learning never exhausts the mind." - Leonardo da Vinci</i>
 </p>
 
-## Projects  
-- [Project 1](https://github.com/Eng-Zoja/project1) - A cool Vue 3 app  
-- [Project 2](https://github.com/Eng-Zoja/project2) - Tailwind CSS portfolio  
+---
+
+### 🔥 Skills  
+
+| Skill       | Level       |  
+| ----------- | ----------- |  
+| JavaScript  | ████████░░  |  
+| Vue 3       | ███████░░░  |  
+| TailwindCSS | ██████░░░░  |  
+| HTML & CSS  | ████████░░  |  
+| Python      | █████░░░░░  |  
+
+---
+
+### 💻 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Zoja&show_icons=true&count_private=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Zoja&theme=radical" />
+</p>
+
+---
+
+### 📫 Contact Me  
+<p align="center">
+  <a href="mailto:eng.zoja@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/eng-zoja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/eng_zoja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 Pinned Projects  
+| Project | Description |  
+| ------- | ----------- |  
+| [My Vue App](https://github.com/Eng-Zoja/vue-app) | Modern Vue 3 SPA with TailwindCSS |  
+| [Portfolio](https://github.com/Eng-Zoja/portfolio) | Personal portfolio with dark mode and animations |  
 
 ---
 
