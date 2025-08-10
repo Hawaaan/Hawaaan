@@ -1,76 +1,29 @@
-# Hi, I’m Eng-Zoja 👋
+<h1 align="center">Hi 👋, I'm Eng-Zoja</h1>
+<p align="center">
+  <img src="https://github.com/Eng-Zoja/Eng-Zoja/blob/main/banner.png" alt="Banner" width="100%" />
+</p>
 
-### Frontend Developer  
-#### Vue.js & Tailwind Specialist | JavaScript Enthusiast  
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+</p>
 
----
+## About Me
+- 🔭 I’m currently working on exciting web projects  
+- 🌱 I’m learning advanced Vue 3 and animations  
+- 👯 I’m looking to collaborate on open source projects  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/eng-zoja) | [Twitter](https://twitter.com/eng_zoja)
 
-## 🔧 Skills & Technologies
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Zoja&show_icons=true&theme=dark" />
+</p>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Eng-Zoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blue-green&hide_title=true&card_width=300)
-
-</div>
+## Projects  
+- [Project 1](https://github.com/Eng-Zoja/project1) - A cool Vue 3 app  
+- [Project 2](https://github.com/Eng-Zoja/project2) - Tailwind CSS portfolio  
 
 ---
 
-## 📌 Pinned Projects  
-
-- [Project One](https://github.com/Hawaaan/project-one)  
-- [Project Two](https://github.com/Hawaaan/project-two)  
-- [Project Three](https://github.com/Hawaaan/project-three)  
-
----
-
-## 📫 Contact Me  
-
-- 📧 Email: [Abdisalan1221@gmail.com](mailto:Abdisalan1221@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
----
-
-## 💬 Quote  
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-
----
-
-## 🎯 Hobbies  
-
-- Coding  
-- Reading tech blogs  
-- Listening to music  
-
----
-
-## 👣 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/Hawaaan/count.svg)  
-
----
-
-## 💖 Sponsor Me
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge)](https://github.com/sponsors/Hawaaan)  
-
----
-
-*Thanks for visiting my profile!*  
+<p align="center">Made with ❤️ by Eng-Zoja</p>
