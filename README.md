@@ -3,7 +3,7 @@
 ### Frontend Developer  
 #### Vue.js & Tailwind Specialist | JavaScript Enthusiast  
 
-![Banner](./banner.png)
+![Banner](https://images.app.goo.gl/jALev4F3XMf46Kbe9)
 
 ---
 
