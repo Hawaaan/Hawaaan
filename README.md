@@ -37,7 +37,8 @@
 ## 👀 Profile Views
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Hawaaan&style=flat-square&color=007BFF)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Hawaaan.Hawaaan)
+
 
 </div>
 
