@@ -9,7 +9,7 @@
 - 🌍 I'm a passionate **Front End Developer** who loves building beautiful and performant web apps.
 - 💻 Skilled in **JavaScript**, **Vue.js**, **React**, **Tailwind CSS**, and **Node.js**.
 - 🎯 Currently improving my skills in **Full-Stack Development** and **Cloud Technologies**.
-- 📫 Reach me at: [email@example.com](mailto:abdisalan1221@gmail.com)
+- 📫 Reach me at: [abdisalan1221@gmail.com](mailto:abdisalan1221@gmail.com)
 
 ---
 
