@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hawaaan!
 
-![Profile Banner](https://your-banner-image-link.com/banner.png)
+![Profile Banner](https://images.app.goo.gl/puePyPWHG54P1J6a8)
 
 ## 💻 About Me
 I'm a passionate **Full Stack Developer** specializing in **Vue 3, TypeScript, and Tailwind CSS**. I love creating clean and interactive web apps and exploring new tech.
