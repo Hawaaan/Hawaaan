@@ -1,65 +1,48 @@
-# Hi there, I'm Hawaaan 👋
+# 👋 Hi, I'm Eng-Zoja!
 
-![Profile Banner](https://images.app.goo.gl/jALev4F3XMf46Kbe9)
+![Profile Banner](https://your-banner-image-link.com/banner.png)
 
----
+## 💻 About Me
+I'm a passionate **Full Stack Developer** specializing in **Vue 3, TypeScript, and Tailwind CSS**. I love creating clean and interactive web apps and exploring new tech.
 
-## 🚀 About Me
-
-- 🌍 I'm a passionate **Front End Developer** who loves building beautiful and performant web apps.
-- 💻 Skilled in **JavaScript**, **Vue.js**, **React**, **Tailwind CSS**, and **Node.js**.
-- 🎯 Currently improving my skills in **Full-Stack Development** and **Cloud Technologies**.
-- 📫 Reach me at: [abdisalan1221@gmail.com](mailto:abdisalan1221@gmail.com)
-
----
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
+- 🔭 I’m currently working on [Cirfeed](https://cirfeed.com)
+- 🌱 I’m learning advanced **TypeScript** and **Vue 3 animations**
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **JavaScript, Vue, or Web Development**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/eng-zoja) | [Email](mailto:your.email@example.com)
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=blueberry" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Hawaaan&theme=blueberry" />
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Hawaaan.Hawaaan)
-
-
-</div>
+## 🛠️ Tech Stack
+![Vue.js](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 📫 Connect with me
-
-<div align="center">
-  <a href="https://github.com/Hawaaan" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/Hawaaan" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Hawaaan" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+## 📊 GitHub Stats
+![Eng-Zoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 
-<p align="center">
-  <em>Thanks for visiting my GitHub profile! 🚀</em>
-</p>
+## 🏆 Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| Cirfeed | Tech news platform | [Live](https://cirfeed.com) |
+| Portfolio | My personal portfolio website | [Repo](https://github.com/YourGitHubUsername/portfolio) |
+| Vue Alerts | Reusable Vue 3 alert component | [Repo](https://github.com/YourGitHubUsername/vue-alerts) |
+
+---
+
+## 🌟 Fun / Personal
+![GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+I love coding, music, and coffee! ☕🎵
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-zoja)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cirfeed.com)
