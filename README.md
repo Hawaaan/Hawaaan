@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eng-Zoja!
+# 👋 Hi, I'm Hawaaan!
 
 ![Profile Banner](https://your-banner-image-link.com/banner.png)
 
@@ -23,7 +23,7 @@ I'm a passionate **Full Stack Developer** specializing in **Vue 3, TypeScript, a
 ---
 
 ## 📊 GitHub Stats
-![Eng-Zoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Hawaaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical)
 
 ---
 
@@ -31,8 +31,8 @@ I'm a passionate **Full Stack Developer** specializing in **Vue 3, TypeScript, a
 | Project | Description | Link |
 |---------|-------------|------|
 | Cirfeed | Tech news platform | [Live](https://cirfeed.com) |
-| Portfolio | My personal portfolio website | [Repo](https://github.com/YourGitHubUsername/portfolio) |
-| Vue Alerts | Reusable Vue 3 alert component | [Repo](https://github.com/YourGitHubUsername/vue-alerts) |
+| Portfolio | My personal portfolio website | [Repo](https://github.com/Hawaaan/portfolio) |
+| Vue Alerts | Reusable Vue 3 alert component | [Repo](https://github.com/Hawaaan/vue-alerts) |
 
 ---
 
