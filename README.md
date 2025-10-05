@@ -1,48 +1,75 @@
-# 👋 Hi, I'm Hawaaan!
+<template>
+  <div class="bg-blue-900 text-white min-h-screen flex flex-col items-center justify-center space-y-8">
+    <!-- Hero Section -->
+    <div class="text-center">
+      <h1 class="text-5xl font-bold mb-4 animate__animated animate__fadeIn">Hi.. I'm Hawaaan!</h1>
+      <img
+        src="your-avatar.jpg" 
+        alt="Hawaaan's Avatar"
+        class="w-32 h-32 rounded-full mx-auto shadow-lg transform transition duration-500 hover:scale-110"
+      />
+    </div>
 
-![Profile Banner](https://images.app.goo.gl/puePyPWHG54P1J6a8)
+    <!-- About Me Section -->
+    <div class="text-center">
+      <h2 class="text-3xl font-semibold mb-2 animate__animated animate__fadeIn">About Me</h2>
+      <p class="max-w-xl mx-auto text-lg mb-6 animate__animated animate__fadeIn">
+        I'm a passionate Full Stack Developer with expertise in Vue 3, TypeScript, and Tailwind CSS.
+      </p>
+    </div>
 
-## 💻 About Me
-I'm a passionate **Full Stack Developer** specializing in **Vue 3, TypeScript, and Tailwind CSS**. I love creating clean and interactive web apps and exploring new tech.
+    <!-- Tech Stack Section -->
+    <div class="flex space-x-6 justify-center animate__animated animate__fadeIn">
+      <img src="vue-icon.svg" alt="Vue.js" class="w-12 h-12 hover:animate-pulse" />
+      <img src="typescript-icon.svg" alt="TypeScript" class="w-12 h-12 hover:animate-pulse" />
+      <img src="tailwind-icon.svg" alt="Tailwind CSS" class="w-12 h-12 hover:animate-pulse" />
+    </div>
 
-- 🔭 I’m currently working on [Cirfeed](https://cirfeed.com)
-- 🌱 I’m learning advanced **TypeScript** and **Vue 3 animations**
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about **JavaScript, Vue, or Web Development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/eng-zoja) | [Email](mailto:your.email@example.com)
+    <!-- Projects Section -->
+    <div class="text-center mt-8">
+      <h2 class="text-3xl font-semibold mb-4">Projects</h2>
+      <ul class="space-y-4">
+        <li class="animate__animated animate__fadeIn">
+          <a href="https://cirfeed.com" class="text-xl font-medium text-blue-400 hover:text-blue-500">
+            Cirfeed - Tech News Platform
+          </a>
+        </li>
+        <li class="animate__animated animate__fadeIn">
+          <a href="https://github.com/Hawaaan/portfolio" class="text-xl font-medium text-blue-400 hover:text-blue-500">
+            Portfolio - Personal Website
+          </a>
+        </li>
+        <li class="animate__animated animate__fadeIn">
+          <a href="https://github.com/Hawaaan/vue-alerts" class="text-xl font-medium text-blue-400 hover:text-blue-500">
+            Vue Alerts - Reusable Vue 3 Component
+          </a>
+        </li>
+      </ul>
+    </div>
 
----
+    <!-- Contact Section -->
+    <div class="flex space-x-6 mt-8">
+      <a href="https://linkedin.com/in/eng-zoja" class="text-blue-600 hover:text-blue-800">
+        <img src="linkedin-icon.svg" alt="LinkedIn" class="w-10 h-10" />
+      </a>
+      <a href="https://twitter.com/yourtwitter" class="text-blue-400 hover:text-blue-600">
+        <img src="twitter-icon.svg" alt="Twitter" class="w-10 h-10" />
+      </a>
+    </div>
+  </div>
+</template>
 
-## 🛠️ Tech Stack
-![Vue.js](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<script lang="ts">
+export default {
+  name: 'Profile',
+};
+</script>
 
----
+<style scoped>
+/* Add custom animations */
+@import 'animate.css';
 
-## 📊 GitHub Stats
-![Hawaaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical)
-
----
-
-## 🏆 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Cirfeed | Tech news platform | [Live](https://cirfeed.com) |
-| Portfolio | My personal portfolio website | [Repo](https://github.com/Hawaaan/portfolio) |
-| Vue Alerts | Reusable Vue 3 alert component | [Repo](https://github.com/Hawaaan/vue-alerts) |
-
----
-
-## 🌟 Fun / Personal
-![GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-I love coding, music, and coffee! ☕🎵
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-zoja)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cirfeed.com)
+.text-5xl {
+  animation: fadeIn 1s ease-out;
+}
+</style>
