@@ -40,23 +40,6 @@ I build fast, responsive, and accessible web interfaces with modern front‑end 
 
 ---
 
-### 🌟 Featured Projects
-
-> Replace placeholders with your real repos + demos. I used your username **Hawaaan**.
-
-#### 🧩 [ui-kit](https://github.com/Hawaaan/ui-kit)
-
-A reusable React component library with TailwindCSS and Radix primitives.
-[🔗 Live Storybook](https://DEMO_URL)
-
-#### 🛍️ [storefront](https://github.com/Hawaaan/storefront)
-
-Modern e‑commerce front end (Next.js + Stripe + Zustand/Redux).
-[🔗 Live Demo](https://DEMO_URL)
-
-#### 🗺️ [travelly](https://github.com/Hawaaan/travelly)
-
-Responsive landing page & blog with dynamic routes and image optimization. <img alt="demo" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
 
 > Pin these repositories in GitHub → **Customize your pins** on your profile.
 
