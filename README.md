@@ -41,10 +41,6 @@ I build fast, responsive, and accessible web interfaces with modern front‑end 
 ---
 
 
-> Pin these repositories in GitHub → **Customize your pins** on your profile.
-
----
-
 ### 💼 Experience & Education
 
 **Freelance** — Front‑End Developer (2021–Present)
