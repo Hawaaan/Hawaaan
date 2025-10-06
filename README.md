@@ -1,17 +1,4 @@
-<!-- Profile README that appears on your GitHub profile -->
-
-<h1 align="center">✨ Hi, I'm <span style="color:#00BFFF;">Kaliya</span> 👋</h1>
-
-<p align="center">
-  💻 Full‑Stack Developer • 🌍 Hargeisa, Somalia  
-  📧 <a href="mailto:kaliya@example.com">Email</a> • 🔗 <a href="https://www.linkedin.com/in/kaliya">LinkedIn</a> • 🌐 <a href="https://kaliya.dev">Portfolio</a>
-</p>
-
----
-
-### 🧠 About Me
-
-🚀 Passionate about crafting elegant, performant, and scalable digital solutions that make life easier and more beautiful.
+digital solutions that make life easier and more beautiful.
 
 * 🧑‍💻 **Role:** Full‑Stack Developer (Freelance)
 * 🎯 **Focus:** Building intuitive interfaces, REST APIs, and cloud‑native applications
@@ -91,4 +78,4 @@ Interactive weather dashboard using **OpenWeather API** and **Mapbox** for real�
 
 ---
 
-<h4 align="center">✨ “Great software is born from curiosity, crafted with empathy, and refined through iteration.” ✨</h4>
+<h4 align="center">✨ "Great software is born from curiosity, crafted with empathy, and refined through iteration." ✨</h4>
