@@ -1,9 +1,24 @@
-digital solutions that make life easier and more beautiful.
+<!-- Profile README that appears on your GitHub profile -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hawaaan+%F0%9F%91%8B;Full%E2%80%91Stack+Developer;Clean+UI+%E2%80%A2+Scalable+Backends+%E2%80%A2+Cloud%E2%80%91native" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 Full-Stack Developer • 🌍 Somalia  
+  📧 <a href="mailto:YOUR_EMAIL">Email</a> • 🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 🌐 <a href="https://YOUR_SITE">Portfolio</a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I craft elegant, performant software that solves real problems and looks great doing it.
 
 * 🧑‍💻 **Role:** Full‑Stack Developer (Freelance)
-* 🎯 **Focus:** Building intuitive interfaces, REST APIs, and cloud‑native applications
-* 💡 **Philosophy:** Code should be clean, accessible, and purposeful
-* 🌱 **Learning:** Cloud infrastructure, CI/CD, and TypeScript mastery
+* 🎯 **Focus:** Intuitive React UIs, robust Django/Node APIs, and cloud‑ready deployments
+* 💡 **Philosophy:** Human‑centered design + clean, maintainable code
+* 🌱 **Currently:** Leveling up CI/CD, TypeScript, and infra as code
 
 ---
 
@@ -12,8 +27,8 @@ digital solutions that make life easier and more beautiful.
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker" />
@@ -24,58 +39,73 @@ digital solutions that make life easier and more beautiful.
 
 ### 🌟 Featured Projects
 
-#### 🛒 [SmartShop](https://github.com/kaliya/SmartShop)
+#### 🛒 [SmartShop](https://github.com/Hawaaan/SmartShop)
 
-E‑commerce platform powered by **Django + React**, delivering seamless performance and delightful shopping UX.
-[🔗 Live Demo](https://smartshop.demo) • ![stars](https://img.shields.io/github/stars/kaliya/SmartShop?style=social)
+E‑commerce platform powered by **Django + React**, optimized for performance and delightful UX.
+[🔗 Live Demo](https://DEMO_URL)
 
-#### ✅ [TaskMate](https://github.com/kaliya/TaskMate)
+#### ✅ [TaskMate](https://github.com/Hawaaan/TaskMate)
 
-Minimalist productivity app to organize your day efficiently and collaborate effortlessly.
-[📘 Case Study](https://kaliya.dev/projects/taskmate)
+Minimalist productivity app for focused personal and team task management.
+[📘 Case Study](https://POST_OR_DOC_URL)
 
-#### 🌦️ [WeatherWise](https://github.com/kaliya/WeatherWise)
+#### 🌦️ [WeatherWise](https://github.com/Hawaaan/WeatherWise)
 
-Interactive weather dashboard using **OpenWeather API** and **Mapbox** for real‑time insights. <img alt="demo gif" src="https://raw.githubusercontent.com/kaliya/WeatherWise/main/demo.gif" width="420"/>
+Interactive weather dashboard with real‑time data and maps. <img alt="demo gif" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
 
 ---
 
 ### 💼 Experience & Education
 
-**Freelance Developer** — Full‑Stack Engineer (2021–Present)
+**Freelance** — Full‑Stack Engineer (2021–Present)
 
-* Delivered performant web apps with 99% uptime and optimized for Lighthouse scores >90
-* Built REST APIs, authentication systems, and deployed scalable apps on AWS
+* Delivered production web apps with strong Lighthouse scores and 99% uptime
+* Built REST APIs, authentication, and automated deployments
 
-**University of Hargeisa** — BSc Computer Science (2017–2021)
+**Education** — BSc Computer Science
 
-* Graduated with Honors
-* Thesis: *Machine Learning for Somali Text Classification*
+* Honors graduate
+* Capstone: *ML for local language text classification*
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:kaliya@example.com"><img src="https://img.shields.io/badge/Email-kaliya%40example.com-blue?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/kaliya"><img src="https://img.shields.io/badge/LinkedIn-Kaliya-blue?logo=linkedin" /></a>
-  <a href="https://twitter.com/kaliya_dev"><img src="https://img.shields.io/badge/Twitter-@kaliya__dev-blue?logo=twitter" /></a>
-  <a href="https://kaliya.dev"><img src="https://img.shields.io/badge/Portfolio-kaliya.dev-brightgreen?logo=firefox" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hawaaan-blue?logo=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR__HANDLE-blue?logo=twitter" /></a>
+  <a href="https://YOUR_SITE"><img src="https://img.shields.io/badge/Portfolio-YOUR__SITE-brightgreen?logo=firefox" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights (auto light/dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaliya&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliya&layout=compact&theme=radical" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" height="160" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" height="160" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaliya&theme=onedark&margin-w=10&no-frame=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=onedark&margin-w=10&no-frame=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=flat&margin-w=10&no-bg=true" />
+    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=flat&margin-w=10&no-bg=true" />
+  </picture>
 </p>
 
 ---
 
-<h4 align="center">✨ "Great software is born from curiosity, crafted with empathy, and refined through iteration." ✨</h4>
+<h4 align="center">✨ “Great software is born from curiosity, crafted with empathy, and refined through iteration.” ✨</h4>
+
+<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE, DEMO_URL before publishing. -->
