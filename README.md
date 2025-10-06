@@ -6,7 +6,6 @@
 
 <p align="center">
   💻 Front‑End Developer • 🌍 Somalia  
-  📧 <a href="mailto:YOUR_EMAIL">Email</a> • 🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 🌐 <a href="https://YOUR_SITE">Portfolio</a>
 </p>
 
 ---
