@@ -1,11 +1,11 @@
 <!-- Profile README that appears on your GitHub profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hawaaan+%F0%9F%91%8B;Full%E2%80%91Stack+Developer;Clean+UI+%E2%80%A2+Scalable+Backends+%E2%80%A2+Cloud%E2%80%91native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Hawaaan+%F0%9F%91%8B;Front%E2%80%91End+Developer;Clean+UI+%E2%80%A2+Accessible+Design+%E2%80%A2+Fast+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💻 Full-Stack Developer • 🌍 Somalia  
+  💻 Front‑End Developer • 🌍 Somalia  
   📧 <a href="mailto:YOUR_EMAIL">Email</a> • 🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 🌐 <a href="https://YOUR_SITE">Portfolio</a>
 </p>
 
@@ -13,59 +13,65 @@
 
 ### 🧠 About Me
 
-I craft elegant, performant software that solves real problems and looks great doing it.
+I build fast, responsive, and accessible web interfaces with modern front‑end stacks.
 
-* 🧑‍💻 **Role:** Full‑Stack Developer (Freelance)
-* 🎯 **Focus:** Intuitive React UIs, robust Django/Node APIs, and cloud‑ready deployments
-* 💡 **Philosophy:** Human‑centered design + clean, maintainable code
-* 🌱 **Currently:** Leveling up CI/CD, TypeScript, and infra as code
+* 🎯 **Focus:** React / Next.js, reusable components, and pixel‑perfect UI
+* 🧩 **Strengths:** Clean CSS architecture, design systems, and performance
+* 🌱 **Currently:** Deepening TypeScript & testing (Jest/RTL)
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styles-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosting-Vercel-000000?logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🛒 [SmartShop](https://github.com/Hawaaan/SmartShop)
+> Replace placeholders with your real repos + demos. I used your username **Hawaaan**.
 
-E‑commerce platform powered by **Django + React**, optimized for performance and delightful UX.
+#### 🧩 [ui-kit](https://github.com/Hawaaan/ui-kit)
+
+A reusable React component library with TailwindCSS and Radix primitives.
+[🔗 Live Storybook](https://DEMO_URL)
+
+#### 🛍️ [storefront](https://github.com/Hawaaan/storefront)
+
+Modern e‑commerce front end (Next.js + Stripe + Zustand/Redux).
 [🔗 Live Demo](https://DEMO_URL)
 
-#### ✅ [TaskMate](https://github.com/Hawaaan/TaskMate)
+#### 🗺️ [travelly](https://github.com/Hawaaan/travelly)
 
-Minimalist productivity app for focused personal and team task management.
-[📘 Case Study](https://POST_OR_DOC_URL)
+Responsive landing page & blog with dynamic routes and image optimization. <img alt="demo" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
 
-#### 🌦️ [WeatherWise](https://github.com/Hawaaan/WeatherWise)
-
-Interactive weather dashboard with real‑time data and maps. <img alt="demo gif" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
+> Pin these repositories in GitHub → **Customize your pins** on your profile.
 
 ---
 
 ### 💼 Experience & Education
 
-**Freelance** — Full‑Stack Engineer (2021–Present)
+**Freelance** — Front‑End Developer (2021–Present)
 
-* Delivered production web apps with strong Lighthouse scores and 99% uptime
-* Built REST APIs, authentication, and automated deployments
+* Built responsive UIs and design systems; shipped sites on Vercel/Netlify
+* Improved performance (Lighthouse 90+) with code‑splitting and image optimization
 
-**Education** — BSc Computer Science
+**Education** — Self‑taught + courses
 
-* Honors graduate
-* Capstone: *ML for local language text classification*
+* React, Next.js, TailwindCSS, TypeScript
 
 ---
 
@@ -96,16 +102,8 @@ Interactive weather dashboard with real‑time data and maps. <img alt="demo gif
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=onedark&margin-w=10&no-frame=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=flat&margin-w=10&no-bg=true" />
-    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=flat&margin-w=10&no-bg=true" />
-  </picture>
-</p>
-
 ---
 
-<h4 align="center">✨ “Great software is born from curiosity, crafted with empathy, and refined through iteration.” ✨</h4>
+<h4 align="center">✨ "Design it simple. Build it fast. Make it accessible." ✨</h4>
 
-<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE, DEMO_URL before publishing. -->
+<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE, and DEMO_URL before publishing. -->
