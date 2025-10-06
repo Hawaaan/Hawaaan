@@ -1,75 +1,73 @@
 <!-- Profile README that appears on your GitHub profile -->
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
 
+<h1 align="center">Hi, I'm Kaliya 👋</h1>
 
 <p align="center">
-YOUR_ONE_LINE_ROLE • YOUR_LOCATION • <a href="mailto:YOUR_EMAIL">Email</a> • <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="https://YOUR_SITE">Portfolio</a>
+Software Developer • Hargeisa, Somalia • <a href="mailto:kaliya@example.com">Email</a> • <a href="https://www.linkedin.com/in/kaliya">LinkedIn</a> • <a href="https://kaliya.dev">Portfolio</a>
 </p>
-
 
 ---
 
+### 👩‍💻 About Me
 
-### 👩‍💻 About me
-- **Role:** YOUR_CURRENT_ROLE @ YOUR_COMPANY
-- **Focus:** SHORT FOCUS AREAS (e.g., full‑stack web, ML systems, iOS)
-- **Value:** WHAT_YOU_LOVE_BUILDING / IMPACT_STATEMENT
-- **Currently:** WHAT_YOU_ARE_LEARNING_OR_SHIPPING
-
+* **Role:** Full‑Stack Developer @ Freelance
+* **Focus:** Building modern, scalable web applications and intuitive user interfaces
+* **Value:** I love turning complex problems into simple, elegant solutions that make an impact
+* **Currently:** Exploring cloud-native development and improving my DevOps workflow
 
 ### 🧰 Skills & Technologies
-<!-- Replace badges with your stack; shields.io is used here -->
-<p>
-<img src="https://img.shields.io/badge/Code-Typescript-informational" />
-<img src="https://img.shields.io/badge/Code-Python-informational" />
-<img src="https://img.shields.io/badge/Framework-React-informational" />
-<img src="https://img.shields.io/badge/Cloud-AWS-informational" />
-<img src="https://img.shields.io/badge/DB-PostgreSQL-informational" />
-<img src="https://img.shields.io/badge/Tools-Docker-informational" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational" />
+  <img src="https://img.shields.io/badge/Code-Python-informational" />
+  <img src="https://img.shields.io/badge/Framework-React-informational" />
+  <img src="https://img.shields.io/badge/Framework-Django-informational" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational" />
 </p>
 
+### 🚀 Featured Projects
 
-### 🚀 Featured projects
-- **[PROJECT_ONE](https://github.com/YOUR_USER/PROJECT_ONE)** — one‑liner on what it does & who it’s for. [Live demo](https://DEMO_URL) · ![stars](https://img.shields.io/github/stars/YOUR_USER/PROJECT_ONE?style=social)
-- **[PROJECT_TWO](https://github.com/YOUR_USER/PROJECT_TWO)** — one‑liner. [Case study](https://POST_OR_DOC_URL)
-- **[PROJECT_THREE](https://github.com/YOUR_USER/PROJECT_THREE)** — one‑liner. <img alt="demo gif" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
-
+* **[SmartShop](https://github.com/kaliya/SmartShop)** — E-commerce platform built with Django and React for a seamless shopping experience. [Live demo](https://smartshop.demo)
+* **[TaskMate](https://github.com/kaliya/TaskMate)** — Productivity app for managing personal and team tasks. [Case study](https://kaliya.dev/projects/taskmate)
+* **[WeatherWise](https://github.com/kaliya/WeatherWise)** — Real-time weather dashboard with interactive maps and data visualization. <img alt="demo gif" src="https://raw.githubusercontent.com/kaliya/WeatherWise/main/demo.gif" width="420"/>
 
 ### 📚 Experience & Education
-**COMPANY_ORG** — ROLE (DATES)
-- IMPACTFUL_BULLET (metrics if possible)
-- ANOTHER_IMPACT
 
+**Freelance Developer** — Full‑Stack Developer (2021–Present)
 
-**SCHOOL / PROGRAM** — DEGREE (DATES)
-- HIGHLIGHT / AWARD
+* Developed and deployed web applications for clients across multiple industries
+* Improved app performance and UI/UX, resulting in higher user engagement
 
+**University of Hargeisa** — BSc in Computer Science (2017–2021)
+
+* Graduated with honors
+* Built final-year project on machine learning for local language text classification
 
 ### 🤝 Contact & Social
-- Email: <YOUR_EMAIL>
-- LinkedIn: <https://www.linkedin.com/in/YOUR_LINKEDIN>
-- Twitter: <https://twitter.com/YOUR_HANDLE>
-- Personal site: <https://YOUR_SITE>
 
-
----
-
-
-### 📊 Optional: GitHub stats
-<!-- You can remove this section if you prefer a cleaner profile -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="160"/>
-</p>
-
-
-<!-- Optional: trophies/badges -->
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat" />
-</p>
-
+* Email: [kaliya@example.com](mailto:kaliya@example.com)
+* LinkedIn: [linkedin.com/in/kaliya](https://www.linkedin.com/in/kaliya)
+* Twitter: [twitter.com/kaliya_dev](https://twitter.com/kaliya_dev)
+* Personal site: [kaliya.dev](https://kaliya.dev)
 
 ---
 
+### 📊 GitHub Stats
 
-<sub>Tip: Keep this concise—your profile is a landing page, not a CV.</sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaliya&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliya&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaliya&theme=flat&margin-w=10&no-bg=true" />
+</p>
+
+---
+
+<sub>✨ Crafted with passion — keep it clean, simple, and authentic. ✨</sub>
