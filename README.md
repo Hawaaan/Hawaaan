@@ -1,63 +1,109 @@
-# Your Name - UI Portfolio
+<!-- Profile README that appears on your GitHub profile -->
 
-![Hero Image](assets/images/hero-screenshot.jpg) <!-- Optional: Add a screenshot of your portfolio site here for visual appeal -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Hawaaan+%F0%9F%91%8B;Front%E2%80%91End+Developer;Clean+UI+%E2%80%A2+Accessible+Design+%E2%80%A2+Fast+Apps" alt="Typing SVG" />
+</p>
 
-Welcome to my UI/UX Design Portfolio! I'm a passionate UI designer/developer focused on creating intuitive, responsive, and user-centered digital experiences. This repository hosts my personal portfolio website, built with modern web technologies and deployed via GitHub Pages.
+<p align="center">
+  💻 Front‑End Developer • 🌍 Somalia  
+  📧 <a href="mailto:YOUR_EMAIL">Email</a> • 🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 🌐 <a href="https://YOUR_SITE">Portfolio</a>
+</p>
 
-🚀 **Live Site**: [yourusername.github.io](https://yourusername.github.io) (or [yourusername.github.io/ui-portfolio](https://yourusername.github.io/ui-portfolio) if using a subpath)
+---
 
-## 📖 About Me
-Hi, I'm **Your Name**, a UI/UX Designer with 5+ years of experience in crafting seamless interfaces for web and mobile apps. I specialize in tools like Figma, Adobe XD, Sketch, and front-end development with HTML/CSS/JavaScript (plus frameworks like React and Tailwind CSS).
+### 🧠 About Me
 
-- **Location**: Your City, Country
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Other Links**: [Behance](https://behance.net/yourprofile) | [Dribbble](https://dribbble.com/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+I build fast, responsive, and accessible web interfaces with modern front‑end stacks.
 
-My design philosophy: *User -first, pixel-perfect, and performant.* I love solving real-world problems through clean, accessible designs that delight users.
+* 🎯 **Focus:** React / Next.js, reusable components, and pixel‑perfect UI
+* 🧩 **Strengths:** Clean CSS architecture, design systems, and performance
+* 🌱 **Currently:** Deepening TypeScript & testing (Jest/RTL)
 
-## 🛠 Tech Stack
-This portfolio is built with:
-- **Frontend**: HTML5, CSS3 (Tailwind CSS), Vanilla JavaScript
-- **Tools**: GitHub Pages for hosting, Formspree for contact forms
-- **Design**: Figma for prototypes, AOS for animations
-- **Other**: Responsive design (mobile-first), Dark mode support, SEO-optimized
+---
 
-For more advanced versions, I can integrate React or Vue.js—let me know if you'd like to collaborate!
+### 🧰 Tech Stack
 
-## 📂 Portfolio Highlights
-Explore my featured projects on the live site. Here's a quick overview:
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styles-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosting-Vercel-000000?logo=vercel&logoColor=white" />
+</p>
 
-### 1. E-Commerce App Redesign
-- **Description**: Revamped checkout flow to boost conversions by 30%. Focused on mobile responsiveness and micro-interactions.
-- **Tools**: Figma, React, Tailwind CSS
-- **Live Demo**: [demo-link.com](https://demo-link.com)
-- **Case Study**: [View Details](projects/ecommerce.html)
-- ![Screenshot](assets/images/project1-screenshot.jpg)
+---
 
-### 2. Dashboard UI for Analytics Tool
-- **Description**: Created a data visualization interface with interactive charts and dark mode toggle.
-- **Tools**: Adobe XD, JavaScript (Chart.js)
-- **Live Demo**: [dashboard-demo.com](https://dashboard-demo.com)
-- **Case Study**: [View Details](projects/dashboard.html)
-- ![Screenshot](assets/images/project2-screenshot.jpg)
+### 🌟 Featured Projects
 
-### 3. Mobile App Onboarding Flow
-- **Description**: Designed intuitive onboarding screens for a fitness app, emphasizing accessibility (WCAG compliant).
-- **Tools**: Sketch, Lottie animations
-- **Prototype**: [Figma Link](https://figma.com/proto/your-link)
-- **Case Study**: [View Details](projects/onboarding.html)
-- ![Screenshot](assets/images/project3-screenshot.jpg)
+> Replace placeholders with your real repos + demos. I used your username **Hawaaan**.
 
-(Add more projects as needed—aim for 4-6 to keep it concise.)
+#### 🧩 [ui-kit](https://github.com/Hawaaan/ui-kit)
 
-## 🌟 Why This Portfolio?
-- **Clean & Modern**: Minimalist design with smooth animations and dark/light mode.
-- **Responsive**: Works flawlessly on desktop, tablet, and mobile.
-- **Interactive**: Embed live demos, GIFs, and contact forms for engagement.
-- **Open Source**: Feel free to fork and use as a template for your own portfolio!
+A reusable React component library with TailwindCSS and Radix primitives.
+[🔗 Live Storybook](https://DEMO_URL)
 
-## 🚀 Getting Started
-To run this locally or contribute:
+#### 🛍️ [storefront](https://github.com/Hawaaan/storefront)
 
-1. **Clone the Repo**:
+Modern e‑commerce front end (Next.js + Stripe + Zustand/Redux).
+[🔗 Live Demo](https://DEMO_URL)
+
+#### 🗺️ [travelly](https://github.com/Hawaaan/travelly)
+
+Responsive landing page & blog with dynamic routes and image optimization. <img alt="demo" src="https://PLACE_A_SMALL_GIF_OR_IMAGE" width="420"/>
+
+> Pin these repositories in GitHub → **Customize your pins** on your profile.
+
+---
+
+### 💼 Experience & Education
+
+**Freelance** — Front‑End Developer (2021–Present)
+
+* Built responsive UIs and design systems; shipped sites on Vercel/Netlify
+* Improved performance (Lighthouse 90+) with code‑splitting and image optimization
+
+**Education** — Self‑taught + courses
+
+* React, Next.js, TailwindCSS, TypeScript
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hawaaan-blue?logo=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR__HANDLE-blue?logo=twitter" /></a>
+  <a href="https://YOUR_SITE"><img src="https://img.shields.io/badge/Portfolio-YOUR__SITE-brightgreen?logo=firefox" /></a>
+</p>
+
+---
+
+### 📊 GitHub Insights (auto light/dark)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" height="160" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" height="160" />
+  </picture>
+</p>
+
+---
+
+<h4 align="center">✨ "Design it simple. Build it fast. Make it accessible." ✨</h4>
+
+<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE, and DEMO_URL before publishing. -->
