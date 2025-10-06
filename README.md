@@ -1,5 +1,4 @@
-
-<!-- Modern Dark Themed README Template -->
+<!-- Modern Dark Themed README Template (No Installation Section) -->
 <div align="center">
 
 # 🌙 **ProjectName**
@@ -11,7 +10,7 @@
 
 ---
 
-🧠 **Features** • 🚀 **Installation** • 💡 **Usage** • ❤️ **Author**
+🧠 **Features** • 💡 **Usage** • ❤️ **Author**
 
 ---
 
@@ -26,17 +25,14 @@
 
 ---
 
-## 🚀 Installation
+## 💡 Usage
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ProjectName.git
+1. Open the app or system after installation  
+2. Configure environment variables if needed  
+3. Run locally or deploy to your server  
 
-# Navigate into the project folder
-cd ProjectName
+Example:
+```js
+import ProjectName from "projectname";
 
-# Install dependencies
-npm install
-
-# Start the project
-npm start
+ProjectName.run();
