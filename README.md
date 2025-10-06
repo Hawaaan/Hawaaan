@@ -22,20 +22,69 @@ I build fast, responsive, and accessible web interfaces with modern front‑end 
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styles-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/State-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hosting-Vercel-000000?logo=vercel&logoColor=white" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux Toolkit"/><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/><br/>
+      <sub><b>Vite</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>✨ Minimal icons • labels underneath • looks clean on dark/light themes ✨</sub>
+
+</div>
+
+---
+
 
 ---
 
