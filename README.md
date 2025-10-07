@@ -5,176 +5,156 @@
 </p>
 
 <p align="center">
-  💻 Front‑End Developer • 🌍 Somalia  
+  💻 Front‑End Developer • 🌍 Somalia • 🎨 UI/UX Enthusiast
 </p>
 
 ---
 
-### 🧠 About Me
-
-I build fast, responsive, and accessible web interfaces with modern front‑end stacks. Passionate about creating user-centric experiences that perform well across devices.
-
-* 🎯 **Focus:** React / Next.js, reusable components, and pixel‑perfect UI
-* 🧩 **Strengths:** Clean CSS architecture, design systems, and performance optimization
-* 🌱 **Currently:** Deepening TypeScript, testing (Jest/RTL), and exploring AI-assisted development tools
-* 🚀 **Fun Fact:** Coffee-fueled coder who believes in "mobile-first" everything!
-
----
-
-### 🧰 Tech Stack
+## 🚀 About Me
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/><br/>
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux Toolkit"/><br/>
-      <sub><b>Redux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/><br/>
-      <sub><b>Jest</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"/><br/>
-      <sub><b>npm</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/>
-      <sub><b>CI/CD</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/accessibility/accessibility-plain.svg" width="40" height="40" alt="Accessibility"/><br/>
-      <sub><b>a11y</b></sub>
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=Hawaaan&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Hawaaan?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Hawaaan?style=social)
 
-<sub>✨ Updated with testing, tools, and accessibility focus • Minimal icons • Theme-agnostic ✨</sub>
+</div>
 
-<!-- Animated Tech Stack Reveal (using external GIF for staggered effect - optional, replace if too heavy) -->
-<p align="center">
-  <img src="https://github.com/Hawaaan/Hawaaan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="300" />
-</p>
+I'm a passionate front-end developer who creates beautiful, performant, and accessible web experiences. I believe in writing clean, maintainable code and crafting interfaces that users love.
+
+- 🔭 **Currently Working On:** Next.js e-commerce platform with TypeScript
+- 🌱 **Learning:** Advanced React patterns, Three.js, and GraphQL
+- 👯 **Looking to Collaborate On:** Open source projects with social impact
+- 💬 **Ask me about:** React, CSS architecture, performance optimization
+- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 📚 Currently Exploring
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/Hawaaan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical&hide_border=true" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Hawaaan">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hawaaan&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-### 💼 Experience & Education
+## 📈 Contribution Graph
 
-**Freelance** — Front‑End Developer (2021–Present)
+<div align="center">
 
-* Built responsive UIs and design systems; shipped production sites on Vercel/Netlify
-* Improved performance (Lighthouse scores 90+) via code-splitting, lazy loading, and image optimization
-* Collaborated on accessible web apps following WCAG guidelines
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hawaaan&theme=react-dark&hide_border=true&area=true)
 
-**Education** — Self‑taught + Online Courses
-
-* React, Next.js, TailwindCSS, TypeScript via freeCodeCamp, Udemy, and official docs
-* Ongoing: Advanced React patterns and full-stack exploration with Next.js API routes
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-blue?logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hawaaan-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR__HANDLE-blue?logo=twitter" alt="Twitter" /></a>
-  <a href="https://YOUR_SITE"><img src="https://img.shields.io/badge/Portfolio-YOUR__SITE-brightgreen?logo=firefox" alt="Portfolio" /></a>
-  <a href="https://github.com/Hawaaan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github" alt="GitHub" /></a>
-</p>
+### 🔥 [Project Name](https://github.com/Hawaaan/project-name)
+*Short description of what this project does and technologies used*
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-### 📊 GitHub Insights (auto light/dark theme support)
+### ⭐ [Another Project](https://github.com/Hawaaan/another-project)
+*Brief description highlighting key features*
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default&hide_border=true" />
-    <img alt="Hawaaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default&hide_border=true" height="160" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default&hide_border=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default&hide_border=true" height="160" />
-  </picture>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hawaaan&theme=radical&hide_border=true" alt="GitHub Streak" height="160" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 📈 Activity Graph (animated contributions)
+## 📝 Latest Blog Posts
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hawaaan&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Fun Animated Snake (based on your contributions - generates a snake eating your commit graph) -->
-<!-- To set this up: Install the snake action in your repo (see https://github.com/Platane/snk), then link to the generated SVG in your repo's output branch. Example above uses a placeholder path. -->
+<!-- BLOG-POST-LIST:START -->
+- [How I Optimized My React App Performance](https://yourblog.com/post1)
+- [Building Accessible Web Components](https://yourblog.com/post2)
+- [TypeScript Tips for React Developers](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-<h4 align="center">✨ "Design it simple. Build it fast. Make it accessible." ✨</h4>
+## 🏆 GitHub Trophies
 
-<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE before publishing. For the snake animation: Follow https://github.com/Platane/snk to generate it automatically! -->
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hawaaan&theme=radical&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://your-blog.com)
+
+</div>
+
+---
+
+## 🎵 Currently Listening
+
+<div align="center">
+
+[![Spotify](https://spotify-readme-git-main-Hawaaan.vercel.app/api?theme=dark)](https://open.spotify.com/user/your-spotify)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+⭐ **Feel free to star my repositories if you find them interesting!**
+
+</div>
+
+<!-- Snake Game Contribution Graph -->
+<div align="center">
+
+![Snake animation](https://github.com/Hawaaan/Hawaaan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
