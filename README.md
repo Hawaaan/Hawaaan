@@ -1,136 +1,275 @@
-<!-- Profile README that appears on your GitHub profile -->
+import { Github, Linkedin, Mail, Globe } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Hawaaan+%F0%9F%91%8B;Front%E2%80%91End+Developer;Clean+UI+%E2%80%A2+Accessible+Design+%E2%80%A2+Fast+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  💻 Front‑End Developer • 🌍 Somalia  
-</p>
-
----
-
-### 🧠 About Me
-
-I build fast, responsive, and accessible web interfaces with modern front‑end stacks.
-
-* 🎯 **Focus:** React / Next.js, reusable components, and pixel‑perfect UI
-* 🧩 **Strengths:** Clean CSS architecture, design systems, and performance
-* 🌱 **Currently:** Deepening TypeScript & testing (Jest/RTL)
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/><br/>
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux Toolkit"/><br/>
-      <sub><b>Redux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-  </tr>
-</table>
-
-<sub>✨ Minimal icons • labels underneath • looks clean on dark/light themes ✨</sub>
-
-</div>
-
----
+const Hero = () => {
+  return (
+    <section className="min-h-screen flex items-center justify-center px-4 py-20">
+      <div className="max-w-4xl w-full text-center space-y-8 animate-fade-in">
+        {/* Animated Greeting */}
+        <div className="space-y-4">
+          <h1 className="text-5xl md:text-7xl font-bold">
+            Hi, I'm <span className="gradient-text">Hawaaan</span> 👋
+          </h1>
+          <div className="text-2xl md:text-3xl text-muted-foreground space-y-2">
+            <p className="animate-slide-in" style={{ animationDelay: "0.2s" }}>
+              Front‑End Developer
+            </p>
+            <p className="text-lg md:text-xl text-primary animate-slide-in" style={{ animationDelay: "0.4s" }}>
+              Clean UI • Accessible Design • Fast Apps
+            </p>
+          </div>
+        </div>
 
 
----
+        <p className="text-lg text-muted-foreground animate-fade-in" style={{ animationDelay: "0.6s" }}>
+          💻 Front‑End Developer • 🌍 Somalia
+        </p>
 
+        {/* CTA Buttons */}
+        <div className="flex flex-wrap gap-4 justify-center animate-fade-in" style={{ animationDelay: "0.8s" }}>
+          <Button size="lg" className="gap-2 animate-glow-pulse">
+            <Github className="h-5 w-5" />
+            View Projects
+          </Button>
+          <Button size="lg" variant="secondary" className="gap-2">
+            <Mail className="h-5 w-5" />
+            Get In Touch
+          </Button>
+        </div>
 
-### 💼 Experience & Education
+        {/* Quick Links */}
+        <div className="flex gap-4 justify-center pt-8 animate-fade-in" style={{ animationDelay: "1s" }}>
+          <a href="https://github.com/Hawaaan" target="_blank" rel="noopener noreferrer" 
+             className="p-3 glass-card rounded-lg hover-lift">
+            <Github className="h-6 w-6" />
+          </a>
+          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+             className="p-3 glass-card rounded-lg hover-lift">
+            <Linkedin className="h-6 w-6" />
+          </a>
+          <a href="mailto:your@email.com"
+             className="p-3 glass-card rounded-lg hover-lift">
+            <Mail className="h-6 w-6" />
+          </a>
+          <a href="https://yoursite.com" target="_blank" rel="noopener noreferrer"
+             className="p-3 glass-card rounded-lg hover-lift">
+            <Globe className="h-6 w-6" />
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+};
 
-**Freelance** — Front‑End Developer (2021–Present)
+const About = () => {
+  return (
+    <section className="py-20 px-4">
+      <div className="max-w-4xl mx-auto">
+        <h2 className="text-4xl font-bold mb-8 text-center gradient-text">
+          🧠 About Me
+        </h2>
+        
+        <div className="glass-card p-8 rounded-2xl space-y-6">
+          <p className="text-lg text-foreground/90 leading-relaxed">
+            I build fast, responsive, and accessible web interfaces with modern front‑end stacks.
+          </p>
+          
+          <div className="space-y-4">
+            <div className="flex items-start gap-3">
+              <span className="text-2xl">🎯</span>
+              <div>
+                <strong className="text-primary">Focus:</strong>
+                <span className="text-muted-foreground ml-2">
+                  React / Next.js, reusable components, and pixel‑perfect UI
+                </span>
+              </div>
+            </div>
+            
+            <div className="flex items-start gap-3">
+              <span className="text-2xl">🧩</span>
+              <div>
+                <strong className="text-primary">Strengths:</strong>
+                <span className="text-muted-foreground ml-2">
+                  Clean CSS architecture, design systems, and performance
+                </span>
+              </div>
+            </div>
+            
+            <div className="flex items-start gap-3">
+              <span className="text-2xl">🌱</span>
+              <div>
+                <strong className="text-primary">Currently:</strong>
+                <span className="text-muted-foreground ml-2">
+                  Deepening TypeScript & testing (Jest/RTL)
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
 
-* Built responsive UIs and design systems; shipped sites on Vercel/Netlify
-* Improved performance (Lighthouse 90+) with code‑splitting and image optimization
+const TechStack = () => {
+  const technologies = [
+    { name: "React", icon: "⚛️", color: "from-blue-400 to-cyan-400" },
+    { name: "Next.js", icon: "▲", color: "from-gray-400 to-gray-600" },
+    { name: "TypeScript", icon: "TS", color: "from-blue-500 to-blue-700" },
+    { name: "JavaScript", icon: "JS", color: "from-yellow-400 to-yellow-600" },
+    { name: "HTML5", icon: "HTML", color: "from-orange-500 to-red-500" },
+    { name: "CSS3", icon: "CSS", color: "from-blue-500 to-purple-500" },
+    { name: "Tailwind", icon: "🎨", color: "from-cyan-400 to-blue-500" },
+    { name: "Redux", icon: "🔄", color: "from-purple-500 to-purple-700" },
+    { name: "Vite", icon: "⚡", color: "from-purple-400 to-yellow-400" },
+    { name: "Git", icon: "📦", color: "from-orange-600 to-red-600" },
+    { name: "Figma", icon: "🎯", color: "from-pink-500 to-purple-500" },
+    { name: "Vercel", icon: "▼", color: "from-gray-700 to-black" },
+  ];
 
-**Education** — Self‑taught + courses
+  return (
+    <section className="py-20 px-4 bg-secondary/20">
+      <div className="max-w-6xl mx-auto">
+        <h2 className="text-4xl font-bold mb-12 text-center gradient-text">
+          🧰 Tech Stack
+        </h2>
+        
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+          {technologies.map((tech, index) => (
+            <div
+              key={tech.name}
+              className="glass-card p-6 rounded-xl text-center hover-lift group"
+              style={{ animationDelay: `${index * 0.1}s` }}
+            >
+              <div className={`text-5xl mb-3 bg-gradient-to-br ${tech.color} bg-clip-text text-transparent group-hover:scale-110 transition-transform duration-300`}>
+                {tech.icon}
+              </div>
+              <h3 className="font-semibold text-foreground">{tech.name}</h3>
+            </div>
+          ))}
+        </div>
+        
+        <p className="text-center text-muted-foreground mt-8 text-sm">
+          ✨ Minimal design • Fast performance • Accessible by default ✨
+        </p>
+      </div>
+    </section>
+  );
+};
 
-* React, Next.js, TailwindCSS, TypeScript
+const Experience = () => {
+  return (
+    <section className="py-20 px-4">
+      <div className="max-w-4xl mx-auto">
+        <h2 className="text-4xl font-bold mb-12 text-center gradient-text">
+          💼 Experience & Education
+        </h2>
+        
+        <div className="space-y-8">
+          {/* Freelance Experience */}
+          <div className="glass-card p-8 rounded-2xl hover-lift">
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
+              <h3 className="text-2xl font-bold text-foreground">Front‑End Developer</h3>
+              <span className="text-muted-foreground">2021–Present</span>
+            </div>
+            <p className="text-primary font-semibold mb-4">Freelance</p>
+            <ul className="space-y-3 text-muted-foreground">
+              <li className="flex items-start gap-2">
+                <span className="text-primary mt-1">▹</span>
+                <span>Built responsive UIs and design systems; shipped sites on Vercel/Netlify</span>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-primary mt-1">▹</span>
+                <span>Improved performance (Lighthouse 90+) with code‑splitting and image optimization</span>
+              </li>
+            </ul>
+          </div>
 
----
+          {/* Education */}
+          <div className="glass-card p-8 rounded-2xl hover-lift">
+            <h3 className="text-2xl font-bold text-foreground mb-4">Education</h3>
+            <p className="text-primary font-semibold mb-4">Self‑taught + courses</p>
+            <div className="flex flex-wrap gap-2">
+              {["React", "Next.js", "TailwindCSS", "TypeScript"].map((skill) => (
+                <span
+                  key={skill}
+                  className="px-4 py-2 bg-primary/10 border border-primary/20 rounded-full text-sm text-primary"
+                >
+                  {skill}
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
 
-### 🌐 Connect With Me
+const Footer = () => {
+  return (
+    <footer className="py-12 px-4 border-t border-border/50">
+      <div className="max-w-4xl mx-auto text-center space-y-6">
+        <h2 className="text-3xl font-bold gradient-text">
+          🌐 Let's Connect
+        </h2>
+        
+        <div className="flex flex-wrap justify-center gap-4">
+          <a
+            href="mailto:your@email.com"
+            className="px-6 py-3 glass-card rounded-lg hover-lift text-sm font-medium"
+          >
+            📧 Email
+          </a>
+          <a
+            href="https://linkedin.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 glass-card rounded-lg hover-lift text-sm font-medium"
+          >
+            💼 LinkedIn
+          </a>
+          <a
+            href="https://twitter.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 glass-card rounded-lg hover-lift text-sm font-medium"
+          >
+            🐦 Twitter
+          </a>
+          <a
+            href="https://yoursite.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 glass-card rounded-lg hover-lift text-sm font-medium"
+          >
+            🌐 Portfolio
+          </a>
+        </div>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-blue?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hawaaan-blue?logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR__HANDLE-blue?logo=twitter" /></a>
-  <a href="https://YOUR_SITE"><img src="https://img.shields.io/badge/Portfolio-YOUR__SITE-brightgreen?logo=firefox" /></a>
-</p>
+        <div className="pt-8 text-muted-foreground">
+          <p className="text-xl font-semibold mb-2">
+            ✨ "Design it simple. Build it fast. Make it accessible." ✨
+          </p>
+          <p className="text-sm">
+            © 2025 Hawaaan • Built with React & TailwindCSS
+          </p>
+        </div>
+      </div>
+    </footer>
+  );
+};
 
----
+const Index = () => {
+  return (
+    <div className="min-h-screen">
+      <Hero />
+      <About />
+      <TechStack />
+      <Experience />
+      <Footer />
+    </div>
+  );
+};
 
-### 📊 GitHub Insights (auto light/dark)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hawaaan&show_icons=true&theme=default" height="160" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawaaan&layout=compact&theme=default" height="160" />
-  </picture>
-</p>
-
----
-
-<h4 align="center">✨ "Design it simple. Build it fast. Make it accessible." ✨</h4>
-
-<!-- Replace placeholders like YOUR_EMAIL, YOUR_LINKEDIN, YOUR_SITE, and DEMO_URL before publishing. -->
+export default Index;
