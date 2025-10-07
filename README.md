@@ -7,6 +7,8 @@
 <p align="center">
   💻 Front‑End Developer • 🌍 Somalia • 🎨 UI/UX Enthusiast
 </p>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=👋+Hello,+I'm+Hawaaan!;💻+Frontend+Developer;🎨+UI/UX+Enthusiast;🚀+React+Expert;🌍+Based+in+Somalia" alt="Typing Animation" />
 
 ---
 
